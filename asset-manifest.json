@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Crud/static/css/main.5bb34665.chunk.css",
+    "main.js": "/Crud/static/js/main.75a19bbe.chunk.js",
+    "main.js.map": "/Crud/static/js/main.75a19bbe.chunk.js.map",
+    "runtime-main.js": "/Crud/static/js/runtime-main.75dc3a42.js",
+    "runtime-main.js.map": "/Crud/static/js/runtime-main.75dc3a42.js.map",
+    "static/css/2.f4c56af9.chunk.css": "/Crud/static/css/2.f4c56af9.chunk.css",
+    "static/js/2.f784a6ed.chunk.js": "/Crud/static/js/2.f784a6ed.chunk.js",
+    "static/js/2.f784a6ed.chunk.js.map": "/Crud/static/js/2.f784a6ed.chunk.js.map",
+    "index.html": "/Crud/index.html",
+    "static/css/2.f4c56af9.chunk.css.map": "/Crud/static/css/2.f4c56af9.chunk.css.map",
+    "static/css/main.5bb34665.chunk.css.map": "/Crud/static/css/main.5bb34665.chunk.css.map",
+    "static/js/2.f784a6ed.chunk.js.LICENSE.txt": "/Crud/static/js/2.f784a6ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75dc3a42.js",
+    "static/css/2.f4c56af9.chunk.css",
+    "static/js/2.f784a6ed.chunk.js",
+    "static/css/main.5bb34665.chunk.css",
+    "static/js/main.75a19bbe.chunk.js"
+  ]
+}
